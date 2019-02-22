@@ -34,6 +34,7 @@ pip install -r requirements.txt
 Список URL для скачавания находится в файле `orthlib.txt`
 ```
 python download.py orthlib/
+python download.py orthlib/ --urls extras01.txt
 ```
 
 ### Перекодируем из cp1251
